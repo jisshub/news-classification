@@ -1,4 +1,4 @@
 ## News Classification
 
 
-**A news classifer to predict the category of news they falls under using python and sklearn** 
+**A news classifer to predict the category of news on which they falls using python** 
